@@ -1,6 +1,5 @@
 @isTest
 private class MyTest {
-    
     // Test Class local test
     @isTest
     static void myUnitTest() {
