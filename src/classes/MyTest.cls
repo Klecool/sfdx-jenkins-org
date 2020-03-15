@@ -1,6 +1,7 @@
 @isTest
 private class MyTest {
 
+    // Test Class
     @isTest
     static void myUnitTest() {
         MyClass demo = new MyClass();
